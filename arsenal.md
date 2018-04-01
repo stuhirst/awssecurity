@@ -1,8 +1,8 @@
-#AWS Arsenal
+# AWS Arsenal
  
  
  
-##Discovery:
+## Discovery:
 
 - Generate a report of all S3 buckets for an account: https://github.com/bear/s3scan
 
@@ -10,7 +10,7 @@
 
 - Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
  
-##Tools:
+## Tools:
 
 - Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
 
@@ -20,7 +20,7 @@
 
  
  
-##Auditing:
+## Auditing:
 
 - Scout2: https://github.com/nccgroup/Scout2
 
@@ -31,7 +31,7 @@
 - Policy & Encryption; https://github.com/capitalone/cloud-custodian
  
  
-##Training
+## Training
 
 - http://flaws.cloud/
 
