@@ -26,6 +26,8 @@ Scout2: https://github.com/nccgroup/Scout2
 
 Prowler: https://github.com/toniblyx/prowler
 
+cfn-nag: https://github.com/stelligent/cfn_nag
+
 Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
