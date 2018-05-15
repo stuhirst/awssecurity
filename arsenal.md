@@ -18,7 +18,8 @@ Secrets Management; https://github.com/awslabs/git-secrets
 
 Least Privilege: https://github.com/Netflix/repokid
 
- 
+Resource Counter: https://github.com/disruptops/resource-counter
+
  
 Auditing:
 
