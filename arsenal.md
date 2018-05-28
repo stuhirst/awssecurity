@@ -9,6 +9,12 @@ Generate a report of all S3 buckets for an account: https://github.com/bear/s3sc
 Find open S3 buckets: https://github.com/sa7mon/S3Scanner
 
 Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
+
+Cred Scanner:  https://github.com/disruptops/cred_scanner 
+
+
+
+
  
 Tools:
 
@@ -22,6 +28,9 @@ Resource Counter: https://github.com/disruptops/resource-counter
 
 IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
 
+
+ 
+ 
  
 Auditing:
 
@@ -34,9 +43,13 @@ Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
  
  
+ 
+ 
 Training:
 
 http://flaws.cloud/
+
+
 
 Offensive:
 
