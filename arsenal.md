@@ -20,6 +20,8 @@ Least Privilege: https://github.com/Netflix/repokid
 
 Resource Counter: https://github.com/disruptops/resource-counter
 
+IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
+
  
 Auditing:
 
@@ -32,11 +34,13 @@ Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
  
  
-Training
+Training:
 
 http://flaws.cloud/
 
+Offensive:
 
+AWS Attack Library; https://github.com/carnal0wnage/weirdAAL/wiki
 
  
  
