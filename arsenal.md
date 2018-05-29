@@ -1,8 +1,8 @@
-AWS Arsenal
+#AWS Arsenal
  
  
  
-Discovery:
+##Discovery and Visualization:
 
 Generate a report of all S3 buckets for an account: https://github.com/bear/s3scan
 
@@ -16,7 +16,7 @@ Cred Scanner:  https://github.com/disruptops/cred_scanner
 
 
  
-Tools:
+##Tools:
 
 Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
 
@@ -32,7 +32,7 @@ IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
  
  
  
-Auditing:
+##Auditing:
 
 Scout2: https://github.com/nccgroup/Scout2
 
@@ -47,16 +47,17 @@ Policy & Encryption; https://github.com/capitalone/cloud-custodian
  
  
  
-Training:
+##Training:
 
 http://flaws.cloud/
 
 
 
-Offensive:
+##Offensive:
 
 AWS Attack Library; https://github.com/carnal0wnage/weirdAAL/wiki
-
+aws_pwn: https://github.com/dagrz/aws_pwn
+Cloudfrunt: https://github.com/MindPointGroup/cloudfrunt
  
  
  
