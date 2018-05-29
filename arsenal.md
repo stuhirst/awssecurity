@@ -4,12 +4,20 @@
  
 ## Discovery and Visualization:
 
+### S3 Buckets
+
+Slurp: https://github.com/random-robbie/slurp
+
+Bucket-stream: https://github.com/eth0izzle/bucket-stream
+
 Generate a report of all S3 buckets for an account: https://github.com/bear/s3scan
 
 Find open S3 buckets: https://github.com/sa7mon/S3Scanner
 
+### Visualizations
 Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
 
+### IAM 
 Cred Scanner:  https://github.com/disruptops/cred_scanner 
 
 
@@ -23,6 +31,8 @@ Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
 Secrets Management; https://github.com/awslabs/git-secrets
 
 Least Privilege: https://github.com/Netflix/repokid
+
+Repokid-extras: https://github.com/Netflix-Skunkworks/repokid-extras
 
 Resource Counter: https://github.com/disruptops/resource-counter
 
@@ -53,7 +63,7 @@ http://flaws.cloud/
 
 
 
-## Offensive:
+## Offensive / Hunting:
 
 AWS Attack Library; https://github.com/carnal0wnage/weirdAAL/wiki
 
