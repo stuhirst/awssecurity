@@ -56,9 +56,13 @@ http://flaws.cloud/
 ## Offensive:
 
 AWS Attack Library; https://github.com/carnal0wnage/weirdAAL/wiki
+
 aws_pwn: https://github.com/dagrz/aws_pwn
+
 Cloudfrunt: https://github.com/MindPointGroup/cloudfrunt
+
 CloudJack: https://github.com/prevade/cloudjack 
- 
+
+
  
  
