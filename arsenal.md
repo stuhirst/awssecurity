@@ -19,26 +19,26 @@ BucketFinder: https://digi.ninja/projects/bucket_finder.php
 ### Visualizations
 Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
 
-### IAM 
-Cred Scanner:  https://github.com/disruptops/cred_scanner 
-
 
 
 
  
-## Tools:
+## IAM Tools:
 
 Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
-
-Secrets Management; https://github.com/awslabs/git-secrets
 
 Least Privilege: https://github.com/Netflix/repokid
 
 Repokid-extras: https://github.com/Netflix-Skunkworks/repokid-extras
 
-Resource Counter: https://github.com/disruptops/resource-counter
-
 IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
+
+
+##  Secrets Discovery
+
+Cred Scanner:  https://github.com/disruptops/cred_scanner 
+
+Secrets Management; https://github.com/awslabs/git-secrets
 
 
  
@@ -54,8 +54,9 @@ cfn-nag: https://github.com/stelligent/cfn_nag
 
 Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
-Policy & Encryption; https://github.com/capitalone/cloud-custodian
- 
+Active Fleet, Configuration, and Security Governance: https://github.com/capitalone/cloud-custodian
+
+Resource Counter: https://github.com/disruptops/resource-counter
  
  
  
