@@ -14,6 +14,8 @@ Generate a report of all S3 buckets for an account: https://github.com/bear/s3sc
 
 Find open S3 buckets: https://github.com/sa7mon/S3Scanner
 
+BucketFinder: https://digi.ninja/projects/bucket_finder.php
+
 ### Visualizations
 Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
 
