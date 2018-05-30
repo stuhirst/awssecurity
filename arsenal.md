@@ -12,6 +12,8 @@ Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
 
 Cred Scanner:  https://github.com/disruptops/cred_scanner 
 
+IP finder:  https://github.com/arkadiyt/aws_public_ips
+
 
 
 
