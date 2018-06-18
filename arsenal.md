@@ -45,6 +45,8 @@ cfn-nag: https://github.com/stelligent/cfn_nag
 Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
+
+Cloud Inquisitor; https://github.com/RiotGames/cloud-inquisitor
  
  
  
