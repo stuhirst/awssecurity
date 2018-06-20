@@ -34,7 +34,7 @@ IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
  
  
  
-Auditing:
+Auditing & Testing:
 
 Scout2: https://github.com/nccgroup/Scout2
 
@@ -47,7 +47,9 @@ Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
 
 Cloud Inquisitor; https://github.com/RiotGames/cloud-inquisitor
- 
+
+Privilege Escalation; https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/aws-pentest-tools
+
  
  
  
