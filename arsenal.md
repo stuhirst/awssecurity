@@ -42,6 +42,8 @@ Prowler: https://github.com/toniblyx/prowler
 
 cfn-nag: https://github.com/stelligent/cfn_nag
 
+Config Engine for Compliance As Code: https://github.com/awslabs/aws-config-engine-for-compliance-as-code
+
 Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
