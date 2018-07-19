@@ -1,24 +1,44 @@
-AWS Arsenal
+# AWS Arsenal
  
  
  
-Discovery:
+## Discovery:
+
+### S3;
+
+S3 Bucket Enumeration: https://github.com/Parasimpaticki/sandcastle
 
 Generate a report of all S3 buckets for an account: https://github.com/bear/s3scan
 
 Find open S3 buckets: https://github.com/sa7mon/S3Scanner
 
+Enumerate through a pre-compiled list of AWS S3 buckets using DNS: https://github.com/smiegles/mass3
+Also: https://github.com/koenrh/s3enum
+
+Find interesting Amazon S3 Buckets by watching certificate transparency logs: https://github.com/eth0izzle/bucket-stream
+
+Enumerate S3 buckets via certstream, domain, or keywords: https://github.com/random-robbie/slurp
+
+Security Tool to Look For Interesting Files in S3 Buckets: https://github.com/jordanpotti/AWSBucketDump
+
+
+### Networks
+
 Generate Network Diagrams: https://github.com/duo-labs/cloudmapper
+
+IP finder:  https://github.com/arkadiyt/aws_public_ips
+
+### Creds
 
 Cred Scanner:  https://github.com/disruptops/cred_scanner 
 
-IP finder:  https://github.com/arkadiyt/aws_public_ips
+
 
 
 
 
  
-Tools:
+## Tools:
 
 Disable Access Keys after X days; https://github.com/te-papa/aws-key-disabler
 
@@ -31,10 +51,14 @@ Resource Counter: https://github.com/disruptops/resource-counter
 IAM Access Advisor: https://github.com/Netflix-Skunkworks/aardvark
 
 
+## Incident Response & Forensics
+
+Diffy: https://github.com/Netflix-Skunkworks/diffy 
+
+Threat Response: https://github.com/ThreatResponse/aws_ir 
  
  
- 
-Auditing & Testing:
+## Auditing & Testing:
 
 Scout2: https://github.com/nccgroup/Scout2
 
@@ -48,22 +72,33 @@ Policy changes & Insecure config: https://github.com/Netflix/security_monkey
 
 Policy & Encryption; https://github.com/capitalone/cloud-custodian
 
-Cloud Inquisitor; https://github.com/RiotGames/cloud-inquisitor
+Cloud Inquisitor: https://github.com/RiotGames/cloud-inquisitor
 
-Privilege Escalation; https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/aws-pentest-tools
+Privilege Escalation: https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/aws-pentest-tools
 
+AWS Inventory: https://github.com/nccgroup/aws-inventory 
+
+AWS Public IP's: https://github.com/arkadiyt/aws_public_ips
+
+IAM Evaluation: https://github.com/nccgroup/PMapper
  
  
  
-Training:
+## Training:
 
-http://flaws.cloud/
+Flaws: http://flaws.cloud/
 
 
 
-Offensive:
+## Offensive:
 
-AWS Attack Library; https://github.com/carnal0wnage/weirdAAL/wiki
+AWS Attack Library: https://github.com/carnal0wnage/weirdAAL/wiki
+
+Pacu: https://github.com/RhinoSecurityLabs/pacu
+
+ASW pwn: https://github.com/dagrz/aws_pwn 
+
+CloudFrunt: https://github.com/MindPointGroup/cloudfrunt
 
  
  
