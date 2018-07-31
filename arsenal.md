@@ -88,6 +88,8 @@ IAM Evaluation: https://github.com/nccgroup/PMapper
 
 Flaws: http://flaws.cloud/
 
+CloudGoat - a vulnerable by design environment: https://github.com/RhinoSecurityLabs/cloudgoat
+
 
 
 ## Offensive:
