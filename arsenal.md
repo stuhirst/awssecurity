@@ -81,7 +81,8 @@ AWS Inventory: https://github.com/nccgroup/aws-inventory 
 AWS Public IP's: https://github.com/arkadiyt/aws_public_ips
 
 IAM Evaluation: https://github.com/nccgroup/PMapper
- 
+
+Lambda function to "rip apart" a CloudFormation template and check it for security compliance: https://github.com/Skyscanner/cfripper/
  
  
 ## Training:
