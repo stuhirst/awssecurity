@@ -8,6 +8,8 @@
 
 S3 Bucket Enumeration: https://github.com/Parasimpaticki/sandcastle
 
+AWS S3 bucket enumeration: https://github.com/Parasimpaticki/sandcastle
+
 Generate a report of all S3 buckets for an account: https://github.com/bear/s3scan
 
 Find open S3 buckets: https://github.com/sa7mon/S3Scanner
