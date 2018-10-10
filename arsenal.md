@@ -26,6 +26,7 @@
 
 **Continuous Security Auditing:**
 
+* **PacBot** [https://github.com/tmobile/pacbot] (https://github.com/tmobile/pacbot)
 * **Security Monkey**: [https://github.com/Netflix/security_monkey](https://github.com/Netflix/security_monkey)
 * **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus) 
 * **Cloud Inquisitor**: [https://github.com/RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor)
@@ -77,7 +78,13 @@
 **Others:**
 
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded 
- 
+
+
+
+
+
+# OLD VERSION! (before additions from contributors - thanks!!!
+
  
 ## Discovery:
 
