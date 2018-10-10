@@ -26,7 +26,7 @@
 
 **Continuous Security Auditing:**
 
-* **PacBot** [https://github.com/tmobile/pacbot] (https://github.com/tmobile/pacbot)
+* **PacBot** https://github.com/tmobile/pacbot
 * **Security Monkey**: [https://github.com/Netflix/security_monkey](https://github.com/Netflix/security_monkey)
 * **Krampus** (as Security Monkey complement) [https://github.com/sendgrid/krampus](https://github.com/sendgrid/krampus) 
 * **Cloud Inquisitor**: [https://github.com/RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor)
