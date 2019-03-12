@@ -1,7 +1,7 @@
-**I’ve recently compiled a list of generic AWS vulnerabilities & risks which could apply to any business.
-These have been a combination of some of the existing CIS benchmarking (see https://github.com/awslabs/aws-security-benchmark) some of the rules within Cloud Custodian (https://github.com/cloud-custodian/cloud-custodian) as well as some known areas of potential AWS weakness.
+I’ve recently compiled a list of generic AWS vulnerabilities & risks which could apply to any business.
+They were pulled together based on a combination of some of the existing CIS benchmarking (see https://github.com/awslabs/aws-security-benchmark), some of the rules within Cloud Custodian (https://github.com/cloud-custodian/cloud-custodian) as well as some known areas of potential AWS weakness
 
-They are a reasonable set of focus areas a business in the Cloud should focus on when trying to reduce cloud risk.**
+They are a reasonable set of focus areas a business in the Cloud should focus on when trying to reduce cloud risk.
 
 
 
