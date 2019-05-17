@@ -81,6 +81,9 @@
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded 
 
 
+**Serverless & Lambda:**
+
+* https://github.com/Skyscanner/LambdaGuard - LambdaGuard is an AWS Lambda auditing tool designed to create asset visibility and provide actionable results.
 
 
 
