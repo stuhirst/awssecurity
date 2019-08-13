@@ -81,10 +81,12 @@
 
 **Others:**
 
+* **StreamAlert** https://github.com/airbnb/streamalert - data analytics
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded 
 * **Rhino Labs Research** https://github.com/RhinoSecurityLabs/Cloud-Security-Research
 
 **Honeypots**
+
 * **Spacecrab** https://bitbucket.org/asecurityteam/spacecrab
 * https://breachinsider.com/honey-buckets/
 * **honeyLambda** https://github.com/0x4D31/honeyLambda
@@ -93,4 +95,10 @@
 **Serverless & Lambda:**
 
 * https://github.com/Skyscanner/LambdaGuard - LambdaGuard is an AWS Lambda auditing tool designed to create asset visibility and provide actionable results.
+
+**CloudFormation and Terraform**
+
+* **CFRipper** https://github.com/Skyscanner/cfripper/ 
+* https://github.com/nozaq/terraform-aws-secure-baseline
+* **Terrascan** https://github.com/cesar-rodriguez/terrascan 
 
