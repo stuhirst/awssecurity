@@ -101,4 +101,5 @@
 * **CFRipper** https://github.com/Skyscanner/cfripper/ 
 * https://github.com/nozaq/terraform-aws-secure-baseline
 * **Terrascan** https://github.com/cesar-rodriguez/terrascan 
+* **tfsec** https://github.com/liamg/tfsec
 
