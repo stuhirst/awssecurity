@@ -36,6 +36,7 @@
 * **Repokid** Least Privilege: [https://github.com/Netflix/repokid](https://github.com/Netflix/repokid)
 * **Wazuh CloudTrail module**: [https://documentation.wazuh.com/current/amazon/index.html](https://documentation.wazuh.com/current/amazon/index.html)
 * **Detect Credential Compromise** https://github.com/jchrisfarris/detect-credential-compromise
+* **Barq** https://github.com/Voulnet/barq - post exploitation tool
 
 **DFIR:** 
 
