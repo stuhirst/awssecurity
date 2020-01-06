@@ -13,6 +13,7 @@
 * **PMapper**: [https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper) - Advanced and Automated AWS IAM Evaluation (Python)
 * **AWS-Inventory**: [https://github.com/nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Make a inventory of all your resources across regions (Python)
 * **Resource Counter**: [https://github.com/disruptops/resource-counter](https://github.com/disruptops/resource-counter) - Counts number of resources in categories across regions
+* **Checkov**: https://github.com/bridgecrewio/checkov - Checkov is a static code analysis tool for infrastructure-as-code. It scans cloud infrastructure provisioned using Terraform and detects security and compliance misconfigurations.
 
 **Offensive:**
 
