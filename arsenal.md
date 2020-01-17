@@ -38,6 +38,7 @@
 * **Wazuh CloudTrail module**: [https://documentation.wazuh.com/current/amazon/index.html](https://documentation.wazuh.com/current/amazon/index.html)
 * **Detect Credential Compromise** https://github.com/jchrisfarris/detect-credential-compromise
 * **Barq** https://github.com/Voulnet/barq - post exploitation tool
+* **smogcloud** https://github.com/BishopFox/smogcloud - Find cloud assets that no one wants exposed
 
 **DFIR:** 
 
