@@ -87,6 +87,15 @@
 * **StreamAlert** https://github.com/airbnb/streamalert - data analytics
 * [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded 
 * **Rhino Labs Research** https://github.com/RhinoSecurityLabs/Cloud-Security-Research
+* **Dufflebag** https://github.com/bishopfox/dufflebag - Search exposed EBS volumes for secrets
+* **CloudENum** https://github.com/initstring/cloud_enum 
+
+**IAM:**
+
+* **AirIAM** https://github.com/bridgecrewio/AirIAM
+* **IAM Reference** https://github.com/rvedotrc/aws-iam-reference
+* **PMapper** https://github.com/nccgroup/PMapper 
+* **CloudSplaining** https://github.com/salesforce/cloudsplaining
 
 **Honeypots**
 
