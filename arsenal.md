@@ -24,6 +24,7 @@
 * **Cloudfrunt**: [https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)
 * **Cloudjack**: [https://github.com/prevade/cloudjack](https://github.com/prevade/cloudjack)
 * **Nimbostratus**: [https://github.com/andresriancho/nimbostratus](https://github.com/andresriancho/nimbostratus)
+* **EndGame** [https://github.com/salesforce/endgame] (https://github.com/salesforce/endgame) - AWS PenTest Tool from Salesforce/Kinnaird
 
 **Continuous Security Auditing:**
 
@@ -96,6 +97,7 @@
 * **IAM Reference** https://github.com/rvedotrc/aws-iam-reference
 * **PMapper** https://github.com/nccgroup/PMapper 
 * **CloudSplaining** https://github.com/salesforce/cloudsplaining
+* **PolicySentry** https://github.com/salesforce/policy_sentry 
 
 **Honeypots**
 
