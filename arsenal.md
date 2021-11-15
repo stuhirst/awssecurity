@@ -90,6 +90,7 @@
 * **Rhino Labs Research** https://github.com/RhinoSecurityLabs/Cloud-Security-Research
 * **Dufflebag** https://github.com/bishopfox/dufflebag - Search exposed EBS volumes for secrets
 * **CloudENum** https://github.com/initstring/cloud_enum 
+* **CloudQuery** https://github.com/cloudquery/cloudquery - Asset Inventory
 
 **IAM:**
 
