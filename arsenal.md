@@ -92,6 +92,7 @@
 * **Rhino Labs Research** https://github.com/RhinoSecurityLabs/Cloud-Security-Research
 * **Dufflebag** https://github.com/bishopfox/dufflebag - Search exposed EBS volumes for secrets
 * **CloudENum** https://github.com/initstring/cloud_enum 
+* **Domain-Protect** https://github.com/ovotech/domain-protect - protect from sub-domain takeovers
 * 
 **IAM:**
 
